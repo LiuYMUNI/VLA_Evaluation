@@ -7,6 +7,10 @@ This repository documents Yumao Liu’s hands-on study, replication, and deploym
 
 My aim is to understand and benchmark state-of-the-art embodied AI systems capable of generalizing from language and visual input to real-world actions. Here, I present key insights, replication experiences, deployment guides, and reproducible results for each model.
 
+<p align="center">
+  <img src="img.png" width="55%"><br>
+</p>
+
 ## What are Vision-Language-Action Models?
 
 Vision-Language-Action (VLA) models are neural architectures that jointly process images (vision) and text (language) to generate goal-directed actions, enabling general-purpose robotic agents. These models bridge perception, reasoning, and control, pushing the boundaries of robot generalization and instruction following.
